@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(212, 218, 219);
+}
+
+header{
+    color: aquamarine;
+    text-align: center;
+    font-size: 24px;
+    margin-top: 20px;
+    animation-name: initial;
+    animation-duration: 10ms;
+    animation-delay: 0s;
+    animation-play-state: running;
+    -webkit-backface-visibility: visible;
+    animation-direction: alternate-reverse;
+}
+footer{
+}

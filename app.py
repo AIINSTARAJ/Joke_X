@@ -2,7 +2,7 @@ from flask import *
 
 
 app = Flask(__name__,
-            static_folder='src',
+            static_folder='src/assets',
             template_folder='src/template'
             )
 
