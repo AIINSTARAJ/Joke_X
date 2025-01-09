@@ -11,8 +11,8 @@ header{
     animation-duration: 10ms;
     animation-delay: 0s;
     animation-play-state: running;
-    -webkit-backface-visibility: visible;
     animation-direction: alternate-reverse;
 }
 footer{
+    color: aquamarine;
 }
